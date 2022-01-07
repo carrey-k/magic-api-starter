@@ -66,3 +66,10 @@ CREATE TABLE `user` (
 3. Restart your project
 
 4. Access `http://<localhost>:<server_port>/swagger-ui/index.html`
+
+
+# Restore Examples
+1. Start magic-api-starter at localhost
+2. Open web URL in browser
+3. Click the upload icon in the top right corner of header navigation bar
+4. Choose the magic-api-example.zip
