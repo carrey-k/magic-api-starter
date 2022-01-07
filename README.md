@@ -1,3 +1,6 @@
+# Starter for [Magic API](https://www.ssssssss.org/)
+
+
 # Step to Start
 
 1. Install mysql
